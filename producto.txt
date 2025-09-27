@@ -1,0 +1,4 @@
+Producto,01,Chaleco,300.0,S,Negro,20
+Camisa,02,Camisa Vela,600.0,S,Naranja,200,Nike,Seda Tercio,Cuello Chino
+Pantalon,03,Cargo,290.9,28,Negro,200,Nike,Algodon,Ancho
+Producto,04,Sudadero,600.0,S,Verde Oscuro,20
